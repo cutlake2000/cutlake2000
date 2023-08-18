@@ -5,8 +5,7 @@
 #### 🐧 Tech Stack 🐧
 #### 💡 Used as the main
 <img src="https://img.shields.io/badge/Unity-F7DF1E?style=flat-square&logo=Unity&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C#-3178C6?style=flat-square&logo=Csharp#&logoColor=white"/>
+<img src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FC%23-3178C6%3Fstyle%3Dflat-square%26logo%3DCsharp%23%26logoColor%3Dwhite"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
