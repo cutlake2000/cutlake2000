@@ -5,7 +5,7 @@
 #### 🐧 Tech Stack 🐧
 #### 💡 Used as the main
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/#csharp-#239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/#csharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=purple"/>
  
 <br />
