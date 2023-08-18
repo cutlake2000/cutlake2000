@@ -7,6 +7,9 @@
 <img src="https://img.shields.io/badge/#Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/#csharp-#239120?style=flat-square&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/#visualstudiocode-#007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=purple"/>
  
 <br />
  
