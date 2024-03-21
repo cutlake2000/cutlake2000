@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/amazondynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 
-/*
+<!--
 <br />
 <br />
 <br />
@@ -37,6 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutlake2000&layout=compact&height=50)](https://github.com/penguinkim/github-readme-stats)
 
 
-*/
+-->
 
 </div>
