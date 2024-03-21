@@ -26,8 +26,6 @@
 #### 🐥  About me  🐥
 
 [![Solved.acbulliiee](http://mazassumnida.wtf/api/v2/generate_badge?boj=cutlake2000)](https://solved.ac/cutlake2000)
-<br />
-<br />
 ![PenguinKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutlake2000&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutlake2000&layout=compact&height=50)](https://github.com/penguinkim/github-readme-stats)
 
